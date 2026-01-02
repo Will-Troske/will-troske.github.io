@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I am a PhD Candidate in Agriculture and Resource Economics at UC Davis. My work focuses on the behavioral responses to environmental regulations in various contexts. 
 My dissertation studies the impact of a US fuel content regulation on the ships serving in US trade. 
 
