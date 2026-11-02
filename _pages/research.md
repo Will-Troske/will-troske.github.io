@@ -15,7 +15,7 @@ title: "Research"
 
 
 <center><b>Behavioral Responses to Information on PFAS in Drinking Water</b> </center>
-with Laura Alcocer Qui\~nones and Jeffrey Hadachek 
+with Laura Alcocer Quiñones and Jeffrey Hadachek 
 
 ***Abstract***: This paper estimates the effect of information provision on the awareness and avoidance of PFAS exposure. Past research quantified how individuals avoid exposure to contaminants, such as \textit{E. coli} or lead, when notified by measuring additional bottled water purchases. The case of PFAS is unique; the full health effects of PFAS are relatively uncertain, and PFAS stays in drinking water longer than other common contaminants. We leverage variation in violations across nine states with PFAS regulations between 2019 and 2023 to quantify these impacts. We pair detailed violation data at the weekly level with retail scanner data to study how households avoid contamination by buying bottled water or water filters after receiving notifications about PFAS in their drinking water. Because notifications occurred at different times, we use the imputation difference-in-differences estimator of Borusyak et al. (2024). Our results find bottled water expenditure increases by 7% following the first PFAS violation, with no significant increase in water filter expenditure. This increase in bottled water expenditure represents an aggregate cost of approximately \$4 million for the first PFAS violation. 
 
