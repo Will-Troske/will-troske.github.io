@@ -8,7 +8,7 @@ title: "Research"
 </div>
 <!-- Add a smaller margin to control spacing -->
 
-<center><b> [**The Behavioral Impact of Sulfur Fuel Content Regulations in Maritime Shipping**](https://will.troske.github.io/files/Troske_ECA_JMP.pdf) </b> </center>
+<center><b> [**The Behavioral Impact of Sulfur Fuel Content Regulations in Maritime Shipping**](https://will-troske.github.io/files/Troske_ECA_JMP.pdf) </b> </center>
 
 ***Abstract***: In 2012, the US and Canada implemented a regulation called the ECA (Emission Control Area) in their territorial and economic waters to reduce emissions from ocean-going ships. The ECA required ships to use low-sulfur fuel, increasing a ship’s fuel costs. In transportation, an increase in fuel costs can lead to changes in shipping supply characteristics such as operating speed, ship size, and trip frequency. This paper aims to quantify the extent of adjustment in maritime shipping supply characteristics in response to the ECA regulation. I first present a stylized model to highlight how the ECA affects shipping supply characteristics by changing the cost of fuel. I then test these predictions using port entrance and exit data from the US Army Corps of Engineers. I find that for the aggregate cost increase, treated routes saw ships that were, on average, about 15 percent larger in gross tons and had 25 more trips per quarter compared with similar, untreated routes, and ships on treated routes moved 16 percent slower than predicted in the imputed counterfactual. The size of the cost change matters, however, for the response to ship size. 
 
